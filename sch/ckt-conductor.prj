@@ -1,0 +1,5 @@
+schematics ckt-conductor.sch
+output-name ../pcb/ckt-conductor
+skip-m4
+elements-dir ../../../footprints
+elements-dir ../fp

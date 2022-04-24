@@ -2,5 +2,5 @@ Brake Wheel:    PEC12R-4020F-S0024
 Coupler Crash:  100SP4T1B1M2QEH
 Angle Cock:     PTV09A-4020F-B103
 Power Button:   PVA1EEH21.2NV2
-Whsitle:        PVA1OAH21.2NV2
-Battery Holder: 
+Whistle:        PVA1OAH21.2NV2
+Battery Holder: Keystone 590+596
